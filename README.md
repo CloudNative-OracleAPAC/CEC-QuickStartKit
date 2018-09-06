@@ -19,9 +19,10 @@ The above simple videos will give confidence to customers to understand the ease
 + Lab 3: Get started with building a Microsite using Content and Experience (Get Started Video Library) 
 + Lab 4: Working with Process Forms in Experience Cloud (Start Lab)
 
-**Bonus Labs:** Document Workflow in Content and Experience Cloud
-•	A: Content Metadata (Start Lab)
-•	B: Document Workflow (Start Lab)
+**Bonus Labs:** 
++ Document Workflow in Content and Experience Cloud
++ A: Content Metadata (Start Lab)
++ B: Document Workflow (Start Lab)
 
 ## OUTCOME OF THE CECS QUICK START KIT
 With the CECS assets available at a single place and designed with the sole objective of driving consumption, the desired outcome of this exercise would be to have the Oracle UC customers have a provisioned instance of Autonomous CECS and successfully adopt some of the low hanging use cases of CECS like building a static microsite and building on a content hub.
@@ -46,7 +47,7 @@ Steps Involved:
 ![PLEASE FIND THE PROVISIONING VIDEO LINK.](Resources/Video Tutorials/CECS_Provisioning.mp4)
 
 ## Lab 200: Building a Microsite
- 
+![alt text](Resources/Images/Lab200.png "Logo Title Text 1") 
 ### OBJECTIVE:
 This 6 minute video shows how to build your very own 2-page site from scratch with Content and Experience Cloud. The objective is to enable the CSM community as well as SC to learn to showcase creation of a content-centric site with embedded documents, templates, discussions and more.
 
@@ -70,5 +71,8 @@ In the video, you will learn to create a site from a template. Then it also show
 
 To summarise, the video illustrates a real use case scenario based on one of the key use cases of microsite creation leveraging CECS. 
 
+![alt text](Resources/Images/Lab200-1.png "Logo Title Text 1") 
+
 ## Lab 300: Uploading Content
 
+ - TBD -
