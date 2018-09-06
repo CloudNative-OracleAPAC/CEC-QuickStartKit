@@ -19,8 +19,7 @@ The above simple videos will give confidence to customers to understand the ease
 + Lab 3: Get started with building a Microsite using Content and Experience (Get Started Video Library) 
 + Lab 4: [Working with Process Forms in Experience Cloud](CloudNative_CECS/200/210-CecsPCSLab.md)
 
-**Bonus Labs:** 
-+ Document Workflow in Content and Experience Cloud
+**Bonus Labs:** Document Workflow in Content and Experience Cloud
 + A: [Content Metadata](CloudNative_CECS/200/203-CecsPCSLab.md)
 + B: [Document Workflow](CloudNative_CECS/200/201-CecsPCSLab.md)
 
