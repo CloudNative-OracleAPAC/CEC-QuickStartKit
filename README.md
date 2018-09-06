@@ -1,14 +1,16 @@
 # QuickStart for Content and Experience Cloud
 ## CECS QUICK START KIT – AN OVERVIEW
-Oracle Autonomous Content and Experience Cloud is a cloud-based content hub to drive omni-channel content management and accelerate experience delivery. The mentioned Autonomous Content & Experience Cloud Service (CECS) project contains the provisioning video and lab material to demonstrate the detailed steps for the CSMs, SCs and other relevant stakeholders to provision an Autonomous CECS environment and plan for consumption as per customer’s requirements. These assets are part of the APAC Cloud TEST Drive 3.0 workshop content. 
+**Oracle Autonomous Content and Experience Cloud** is a cloud-based content hub to drive omni-channel content management and accelerate experience delivery. The mentioned Autonomous Content & Experience Cloud Service (CECS) project contains the provisioning video and lab material to demonstrate the detailed steps for the CSMs, SCs and other relevant stakeholders to provision an Autonomous CECS environment and plan for consumption as per customer’s requirements. These assets are part of the APAC Cloud TEST Drive 3.0 workshop content. 
 
 ## OBJECTIVE OF THE CECS QUICK START KIT
-
-IMAGE -  
+![alt text](Resources/Images/Picture0.png "Logo Title Text 1")
 
 With the mantra of Consumption being the new currency in Oracle, the key objective of the CECS Quick Start Kit is to enable our CSM community to engage with Universal Credit customers on an important area of content collaboration and web experience. The assets will help in the following:
-Self-service tools: Help the CSM understand what tools are available around CECS adoption at a single place, and be empowered to drive consumption of the CECS.
-Proactively Identify Business Case for CECS: Help the CSMs and other stakeholders like SCs to identify and showcase simple use cases of CECS like Building a Static Site to engage with business users. 
+
+**Self-service tools:** Help the CSM understand what tools are available around CECS adoption at a single place, and be empowered to drive consumption of the CECS.
+
+**Proactively Identify Business Case for CECS:** Help the CSMs and other stakeholders like SCs to identify and showcase simple use cases of CECS like Building a Static Site to engage with business users. 
+
 The above simple videos will give confidence to customers to understand the ease of the solution and share scenarios with CSMs and other Oracle experts to undertake quick adoption.
 
 ## AVAILABLE LABS
@@ -17,7 +19,7 @@ Lab 2: Get started with Provisioning Autonomous Content and Experience (Get Star
 Lab 3: Get started with building a Microsite using Content and Experience (Get Started Video Library) 
 Lab 4: Working with Process Forms in Experience Cloud (Start Lab)
 
-Bonus Labs: Document Workflow in Content and Experience Cloud
+**Bonus Labs:** Document Workflow in Content and Experience Cloud
 •	A: Content Metadata (Start Lab)
 •	B: Document Workflow (Start Lab)
 
@@ -26,7 +28,7 @@ With the CECS assets available at a single place and designed with the sole obje
  
 ## Lab 100: Autonomous CECS Provisioning
 
-Objective of the Video:
+**Objective of the Video:**
 The Content & Experience Provisioning video is targeted towards the CSM community to help them provision this service in few clicks. This 5-minute video explains how to quickly create an instance of Autonomous Content and make it available for customer consumption.
 
 Steps Involved:
@@ -37,8 +39,11 @@ Step 4: You give the Instance Name and select “Region” for the service to be
 Step 5: Once you click on “Next” and Confirm your selections, and click on Create.
 
 5 clicks and WOA! Your Autonomous CECS instance is created in less than 2 minutes!
-       
-PLEASE FIND THE PROVISIONING VIDEO LINK.
+
+![alt text](Resources/Images/Picture1.png "Logo Title Text 1")
+
+
+[PLEASE FIND THE PROVISIONING VIDEO LINK.](Resources/Video Tutorials/CECS_Provisioning.mp4)
 
 ## Lab 200: Building a Microsite
  
@@ -50,7 +55,9 @@ The site example shown in the video uses a template that was adapted from the te
 
 The primary persona for showcasing the site creation is a marketer who interacts with the building of the site.
 
-In the video, you will learn to create a site from a template. Then it also showcases editing the site, adding a template, adding layouts for a site content in the site, add content to the site, add a page, and add a conversation component. (Note: You can extend this demo easily by showing how to add additional components, publish the site, and taking the site online.)
+In the video, you will learn to create a site from a template. Then it also showcases editing the site, adding a template, adding layouts for a site content in the site, add content to the site, add a page, and add a conversation component. 
+
+> Note: You can extend this demo easily by showing how to add additional components, publish the site, and taking the site online.
 
 ### STEPS INVOLVED:
 Step 1: Creating a site from empty template (these assets are added in the GiTHub page)
@@ -60,6 +67,7 @@ Step 4: Define Header along with Logo (Suggesting is to use customer logo)
 Step 5: Creating the page structure using section layouts. (Components included as part of the OOTB instance)
 Step 6: Define and Add the content on each Page (Content Assets are included as part of the repository available in GitHub)
 Step 7: Publish the site
+
 To summarise, the video illustrates a real use case scenario based on one of the key use cases of microsite creation leveraging CECS. 
 
 ## Lab 300: Uploading Content
