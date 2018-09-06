@@ -14,15 +14,15 @@ With the mantra of Consumption being the new currency in Oracle, the key objecti
 The above simple videos will give confidence to customers to understand the ease of the solution and share scenarios with CSMs and other Oracle experts to undertake quick adoption.
 
 ## AVAILABLE LABS
-+ Lab 1: Get started with Content and Experience (Start Lab)
++ Lab 1: [Get started with Content and Experience](CloudNative_CECS/110/111-CecsLab.md)
 + Lab 2: Get started with Provisioning Autonomous Content and Experience (Get Started Video Library)
 + Lab 3: Get started with building a Microsite using Content and Experience (Get Started Video Library) 
-+ Lab 4: Working with Process Forms in Experience Cloud (Start Lab)
++ Lab 4: [Working with Process Forms in Experience Cloud](CloudNative_CECS/200/210-CecsPCSLab.md)
 
 **Bonus Labs:** 
 + Document Workflow in Content and Experience Cloud
-+ A: Content Metadata (Start Lab)
-+ B: Document Workflow (Start Lab)
++ A: [Content Metadata](CloudNative_CECS/200/203-CecsPCSLab.md)
++ B: [Document Workflow](CloudNative_CECS/200/201-CecsPCSLab.md)
 
 ## OUTCOME OF THE CECS QUICK START KIT
 With the CECS assets available at a single place and designed with the sole objective of driving consumption, the desired outcome of this exercise would be to have the Oracle UC customers have a provisioned instance of Autonomous CECS and successfully adopt some of the low hanging use cases of CECS like building a static microsite and building on a content hub.
