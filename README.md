@@ -39,8 +39,8 @@ Step 5: Once you click on “Next” and Confirm your selections, and click on C
 5 clicks and WOA! Your Autonomous CECS instance is created in less than 2 minutes!
        
 PLEASE FIND THE PROVISIONING VIDEO LINK.
-   
-## Lab 300: Building a Microsite
+
+## Lab 200: Building a Microsite
  
 ### OBJECTIVE:
 This 6 minute video shows how to build your very own 2-page site from scratch with Content and Experience Cloud. The objective is to enable the CSM community as well as SC to learn to showcase creation of a content-centric site with embedded documents, templates, discussions and more.
@@ -61,3 +61,6 @@ Step 5: Creating the page structure using section layouts. (Components included 
 Step 6: Define and Add the content on each Page (Content Assets are included as part of the repository available in GitHub)
 Step 7: Publish the site
 To summarise, the video illustrates a real use case scenario based on one of the key use cases of microsite creation leveraging CECS. 
+
+## Lab 300: Uploading Content
+
