@@ -14,11 +14,11 @@ With the mantra of Consumption being the new currency in Oracle, the key objecti
 The above simple videos will give confidence to customers to understand the ease of the solution and share scenarios with CSMs and other Oracle experts to undertake quick adoption.
 
 ## AVAILABLE LABS
-+ Lab 1: [Get started with Content and Experience](CloudNative_CECS/110/111-CecsLab.md)
++ Lab 1: [Get started with Content and Experience](/CloudNative_CECS/110/111-CecsLab.md)
 + Lab 2: [Get started with Provisioning Autonomous Content and Experience](lab100.md)
 + Lab 3: [Get started with building a Microsite using Content and Experience](lab200.md)
 + Lab 4: [Uploading Content in Content and Experience](lab300.md) 
-+ Lab 5: [Working with Process Forms in Experience Cloud](CloudNative_CECS/200/210-CecsPCSLab.md)
++ Lab 5: [Working with Process Forms in Experience Cloud](/CloudNative_CECS/200/210-CecsPCSLab.md)
 
 **Bonus Labs:** Document Workflow in Content and Experience Cloud
 + A: [Content Metadata](CloudNative_CECS/200/203-CecsPCSLab.md)
