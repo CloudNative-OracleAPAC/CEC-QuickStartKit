@@ -1,6 +1,6 @@
 # QuickStart for Content and Experience Cloud
 ## CECS QUICK START KIT – AN OVERVIEW
-**Oracle Autonomous Content and Experience Cloud** is a cloud-based content hub to drive omni-channel content management and accelerate experience delivery. The mentioned Autonomous Content & Experience Cloud Service (CECS) project contains the provisioning video and lab material to demonstrate the detailed steps for the CSMs, SCs and other relevant stakeholders to provision an Autonomous CECS environment and plan for consumption as per customer’s requirements. These assets are part of the APAC Cloud TEST Drive 3.0 workshop content. 
+**Oracle Autonomous Content and Experience Cloud** is a cloud-based content hub to drive omni-channel content management and accelerate experience delivery. The mentioned Autonomous Content & Experience Cloud Service (CECS) project contains the provisioning video and lab material to demonstrate the detailed steps for facilitating the adoption exercise for the customers. Basis this guide, the relevant stakeholders can provision an Autonomous CECS environment and plan for usage as per each customer’s specific requirements. These assets are part of the APAC Cloud TEST Drive 3.0 workshop content. 
 
 ## OBJECTIVE OF THE CECS QUICK START KIT
 ![alt text](Resources/Images/Picture0.png "Logo Title Text 1")
