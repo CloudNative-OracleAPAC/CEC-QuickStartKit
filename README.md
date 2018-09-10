@@ -7,9 +7,9 @@
 
 With the mantra of Consumption being the new currency in Oracle, the key objective of the CECS Quick Start Kit is to enable our CSM community to engage with Universal Credit customers on an important area of content collaboration and web experience. The assets will help in the following:
 
-**Self-service tools:** Help the CSM understand what tools are available around CECS adoption at a single place, and be empowered to drive consumption of the CECS.
+**Self-service tools:** Help the customers understand what tools are available around CECS adoption at a single place, and be empowered to drive usage of the CECS at your own respective pace. 
 
-**Proactively Identify Business Case for CECS:** Help the CSMs and other stakeholders like SCs to identify and showcase simple use cases of CECS like Building a Static Site to engage with business users. 
+**Proactively Identify Business Case for CECS:** Help the customer stakeholders including IT and business teams to identify and showcase simple use cases of CECS like building a content-centric static site to engage with business teams. 
 
 The above simple videos will give confidence to customers to understand the ease of the solution and share scenarios with CSMs and other Oracle experts to undertake quick adoption.
 
