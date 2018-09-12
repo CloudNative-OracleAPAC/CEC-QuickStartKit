@@ -14,8 +14,8 @@ The key objective of the CECS Quick Start Kit is to enable our cloud customers o
 The above simple videos will give confidence to customers to understand the ease of the solution and share scenarios with internal stakeholders, implementation partners and other Oracle experts to undertake quick adoption.
 
 ## AVAILABLE LABS 
-+ Lab 1: [Get started with Content and Experience](https://github.com/CloudNative-OracleAPAC/CloudNative_CECS/blob/Content_and_Experience/110/111-CecsLab.md)
-+ Lab 2: [Get started with Provisioning Autonomous Content and Experience](lab100.md)
++ Lab 1: [Get started with Provisioning Autonomous Content and Experience](lab100.md)
++ Lab 2: [Get started with Content and Experience](https://github.com/CloudNative-OracleAPAC/CloudNative_CECS/blob/Content_and_Experience/110/111-CecsLab.md)
 + Lab 3: [Get started with building a Microsite using Content and Experience](lab200.md)
 + Lab 4: [Uploading Content in Content and Experience](lab300.md) 
 + Lab 5: [Working with Process Forms in Experience Cloud](https://github.com/CloudNative-OracleAPAC/CloudNative_CECS/blob/Content_and_Experience/200/210-CecsPCSLab.md) (Optional Lab)
