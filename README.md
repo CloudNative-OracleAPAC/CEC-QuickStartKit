@@ -25,5 +25,5 @@ The above simple videos will give confidence to customers to understand the ease
 + B: [Document Workflow](https://github.com/CloudNative-OracleAPAC/CloudNative_CECS/blob/Content_and_Experience/200/201-CecsPCSLab.md)
 
 ## OUTCOME OF THE CECS QUICK START KIT
-With the CECS assets available at a single place and designed with the sole objective of driving consumption, the desired outcome of this exercise would be to have the Oracle UC customers have a provisioned instance of Autonomous CECS and successfully adopt some of the low hanging use cases of CECS like building a static microsite and building on a content hub.
+With the CECS assets available at a single place and designed with the sole objective of helping Oracle customers adopt the innovative offerings, the desired outcome of this exercise would be to have the Oracle Universal Credit customers have a provisioned instance of Autonomous CECS and successfully adopt some of the low hanging use cases of CECS like building a static microsite and building on a content hub.
  
