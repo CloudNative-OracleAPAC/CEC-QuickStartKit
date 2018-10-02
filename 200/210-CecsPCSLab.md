@@ -233,4 +233,4 @@ Now you are ready to check the results.
 ### Congratulations you have completed the Lab! ###
 
 ---
-[Back to CECS Cloud Test Drive Home](../README.md)
+[Back to CECS QuickStartKit Home](../README.md)
