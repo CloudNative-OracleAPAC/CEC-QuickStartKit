@@ -1,12 +1,12 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 2: Working with Process Forms in Experience Cloud ##
+## Lab 5: Working with Process Forms in Experience Cloud ##
 
-### 1.	Introduction ###
+### 5.1.	Introduction ###
 
 In this lab we will look into how we can configure a process form into a Experience Cloud Page.
 
-### 2.	Import Sample Process ###
+### 5.2.	Import Sample Process ###
 
 1. Login to your PCS instance
 
@@ -122,7 +122,7 @@ Now click **Save** to save the changes.
 Next is to add this application to the cafe supremo microsite.
 
 
-### 3.	Preparing your Site in Experience Cloud ###
+### 5.3.	Preparing your Site in Experience Cloud ###
 
 Before we can run the process application in Cafe Supremo we will need to enable Cafe Supremo to be a secure site.
 
@@ -208,7 +208,7 @@ The empty newly created page will now appear.
 
 <img src="images/210-3-16.png" width="100%"/>
 
-### 4.	Run the Scenario  ### 
+### 5.4.	Run the Scenario  ### 
 
 Now you are ready to check the results. 
 

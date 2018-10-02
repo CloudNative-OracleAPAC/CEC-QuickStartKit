@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1.1 Creating a New Site ##
+## Lab 2.1 Creating a New Site ##
 
 ### About this Lab ###
 In this exercise, you will create a CafeSupremo marketing site using pre-installed template and components.
@@ -13,7 +13,7 @@ In this exercise, you will create a CafeSupremo marketing site using pre-install
 
 ---
 
-### 1.1.1 Create a Site ###
+### 2.1.1 Create a Site ###
 
 1. Login to CEC using the User ID assigned to you.
 
@@ -35,7 +35,7 @@ created.
 
 ![](../images/1.5.1.4.png)
 
-### 1.1.2. Adding Assets to Collection ###
+### 2.1.2. Adding Assets to Collection ###
 
 1. Navigate to ``Content -> Digital Assets``, click the **“Select All”** link, then click
 **“Add to Collection”** link.
@@ -55,7 +55,7 @@ click the **“Select All”** and **“Add to Collection”** link again to add
 
 <img src="../images/1.5.2.2b.png" width="50%" height="50%"/>
 
-### 1.1.3. Publish Digital Assets ###
+### 2.1.3. Publish Digital Assets ###
 
 1. Use the filter to select all assets in the **CafeSupremo Site Content**
 collection.
@@ -70,4 +70,4 @@ because the **“Select All”** can only select items on current page.
 
 ---
 
-NEXT: [Lab 1.2: Creating Content Type](112-CecsLab.md) >>
+NEXT: [Lab 2.2: Creating Content Type](112-CecsLab.md) >>
