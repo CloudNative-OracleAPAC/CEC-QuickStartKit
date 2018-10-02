@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 2B: Document Workflow in Content and Experience Cloud ##
+## Lab B: Document Workflow in Content and Experience Cloud ##
 
 ### 4.	Setting the workflow in CEC ###
 
@@ -127,4 +127,4 @@ b.	The Meta-Data is updated on the document.
 
 ### Congratulations you have completed the Lab! ###
 
-[CECS Cloud Test Drive Home](../README.md)
+[CECS QuickStartKit Home](../README.md)

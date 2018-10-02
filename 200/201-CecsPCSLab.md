@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 2B: Document Workflow in Content and Experience Cloud ##
+## Lab B: Document Workflow in Content and Experience Cloud ##
 
 ### 1.	Introduction ###
 
