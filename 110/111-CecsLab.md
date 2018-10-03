@@ -13,7 +13,7 @@ In this exercise, you will create a CafeSupremo marketing site using pre-install
 
 ---
 
-### Lab 111.1 Create a Site ###
+### Lab 111.1 - Create a Site ###
 
 1. Login to CEC using the User ID assigned to you.
 
@@ -35,7 +35,7 @@ created.
 
 ![](../images/1.5.1.4.png)
 
-### Lab 111.2 Adding Assets to Collection ###
+### Lab 111.2 - Adding Assets to Collection ###
 
 1. Navigate to ``Content -> Digital Assets``, click the **“Select All”** link, then click
 **“Add to Collection”** link.
@@ -55,7 +55,7 @@ click the **“Select All”** and **“Add to Collection”** link again to add
 
 <img src="../images/1.5.2.2b.png" width="50%" height="50%"/>
 
-### Lab 111.3 Publish Digital Assets ###
+### Lab 111.3 - Publish Digital Assets ###
 
 1. Use the filter to select all assets in the **CafeSupremo Site Content**
 collection.
