@@ -85,7 +85,7 @@ Change the Content **List: Ad** to **Ad_2017**.
 
 ![](../images/1.8.2.8.png)
 
-### 1.4.3. Change the Content List Settings ###
+### Lab 114.3 - Change the Content List Settings ###
 
 1. Select the **Content list: Ad_2017** placeholder and open the **Settings**
 
