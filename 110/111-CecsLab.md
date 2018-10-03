@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 111 Creating a New Site ##
+## Lab 111 - Creating a New Site ##
 
 ### About this Lab ###
 In this exercise, you will create a CafeSupremo marketing site using pre-installed template and components.
