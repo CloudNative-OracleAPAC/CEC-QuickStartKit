@@ -14,8 +14,12 @@ The key objective of the CECS Quick Start Kit is to enable our cloud customers o
 The above simple videos will give confidence to customers to understand the ease of the solution and share scenarios with internal stakeholders, implementation partners and other Oracle experts to undertake quick adoption.
 
 ## AVAILABLE LABS 
-+ Lab 1: [Get started with Provisioning Autonomous Content and Experience](lab100.md)
-+ Lab 2: [Get started with Content and Experience](110/111-CecsLab.md)
++ Lab 100: [Get started with Provisioning Autonomous Content and Experience](lab100.md)
++ Lab 111: [Creating A New Site](110/111-CecsLab.md)
++ Lab 112: [Creating Content Type](110/112-CecsLab.md)
++ Lab 113: [Creating And Publshing Content Item](110/113-CecsLab.md)
++ Lab 114: [Using Content Item In Sites](110/114-CecsLab.md)
+
 + Lab 3: [Get started with building a Microsite using Content and Experience](lab200.md)
 + Lab 4: [Uploading Content in Content and Experience](lab300.md) 
 + Lab 5: [Working with Process Forms in Experience Cloud](200/210-CecsPCSLab.md) (Optional Lab)
