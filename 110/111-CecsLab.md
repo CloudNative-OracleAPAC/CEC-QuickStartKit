@@ -70,4 +70,4 @@ because the **“Select All”** can only select items on current page.
 
 ---
 
-NEXT: [Lab 2.2: Creating Content Type](112-CecsLab.md) >>
+NEXT: [Lab 112 - Creating Content Type](112-CecsLab.md) >>
