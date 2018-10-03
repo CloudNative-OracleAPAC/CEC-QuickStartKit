@@ -1,6 +1,6 @@
 # ORACLE Cloud Test Drive #
 
-## Lab 1.2. Creating Content Type ##
+## Lab 112 - Creating Content Type ##
 
 ### About this Lab ###
 
@@ -17,7 +17,7 @@ content types used in this exercise:
 >[How do I create content items?](https://docs.oracle.com/en/cloud/paas/content-cloud/user/how-do-i-create-content-items.html)
 
 ---
-### 1.2.1. Creating Content Type ###
+### Lab 112.1 - Creating Content Type ###
 
 1. Navigate to ``Content -> Content Items`` page, then click **“Manage Types”**.
 
