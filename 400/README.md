@@ -4,10 +4,10 @@
 In this lab, you will learn how to build an enterprise website  with Oracle Content & Experience Cloud (CEC).
 The objectives of this lab are to:
 
-+ 1.	Learn how to create a digital asset repository
-+ 2.	Learn how to create a site using template and use the asset in an enterprise microsite
-+ 3.	Learn how to create content item for your site. 
-+ 4.	Learn how to create and export a template using your site.
+1. Learn how to create a digital asset repository
+2. Learn how to create a site using template and use the asset in an enterprise microsite
+3. Learn how to create content item for your site. 
+4. Learn how to create and export a template using your site.
  
 ## 2.	Environment
 
