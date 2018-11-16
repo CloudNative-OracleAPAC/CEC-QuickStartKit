@@ -24,18 +24,25 @@ Note:  When you see <User ID> in this lab guide, please replace it with the CEC 
 ## 3.	Create A Site Using Template
 Before you can create a site using a template, you need to create a Repository for the site assets (e.g. images, content items etc.)
 Click on the Assets menu on the left under the Administration section of the menu, then click on the Create link to create a Repository for the site assets.
+
 ![alt text](resources/3.1.png) 
+
 On the Create Repository screen, enter Maximum-<User ID> as the name of the repository and select English (United State) (en-US) as the default language. Click on the Save link to save the repository.
 For example:
 
 ![alt text](resources/3.2.png)
+
 ![alt text](resources/3.3.png) 
 
 Now you are ready to create a site. 
 Click on the **`Site`** menu on the left, then click on the Create button on the right side of the screen.
+
 ![alt text](resources/3.4.png) 
+
 You will see an imported template called Maximum template, select the template and click on the Next button.
+
 ![alt text](resources/3.5.png) 
+
 On the create site screen, 
 1. Enter **Maximum<User ID>** as the name of the site
 2. Select **Maximum-<User ID>** repository as the site asset repository
