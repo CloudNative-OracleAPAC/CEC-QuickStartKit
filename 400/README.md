@@ -8,12 +8,15 @@ The objectives of this lab are to:
 2. Learn how to create a site using template and use the asset in an enterprise microsite
 3. Learn how to create content item for your site. 
 4. Learn how to create and export a template using your site.
+
+### Resources
+
+1. [Maximum.zip](template/Maximum.zip) - Maximum HOL site template and components 
  
 ## 2.	Environment
 
-CEC Environment:  https://cechol2-gse00015123.cec.ocp.oraclecloud.com/documents
-…a production Oracle Public Cloud instance which you will share with all other attendees.
-You will be presented with a login box. Login with the username that was assigned to you at the beginning of the Lab by the instructor. It will be in the form of holuser<number>. 
+CEC Environment:  to be shared with you
+You will be presented with a login box.  Login with the username that was assigned to you at the beginning of the Lab by the instructor. It will be in the form of **holuser<number>**. 
 After login you should see a UI that looks like this.
 
 ![alt text](resources/2.1.png)
@@ -23,11 +26,12 @@ Note:  When you see <User ID> in this lab guide, please replace it with the CEC 
  
 ## 3.	Create A Site Using Template
 Before you can create a site using a template, you need to create a Repository for the site assets (e.g. images, content items etc.)
-Click on the Assets menu on the left under the Administration section of the menu, then click on the Create link to create a Repository for the site assets.
+Click on the **Assets** menu on the left under the Administration section of the menu, then click on the **Create** link to create a Repository for the site assets.
 
 ![alt text](resources/3.1.png) 
 
-On the Create Repository screen, enter Maximum-<User ID> as the name of the repository and select English (United State) (en-US) as the default language. Click on the Save link to save the repository.
+On the Create Repository screen, enter **Maximum-<User ID>** as the name of the repository and select English (United State) (en-US) as the default language. Click on the **Save** link to save the repository.
+
 For example:
 
 ![alt text](resources/3.2.png)
@@ -35,11 +39,11 @@ For example:
 ![alt text](resources/3.3.png) 
 
 Now you are ready to create a site. 
-Click on the **`Site`** menu on the left, then click on the Create button on the right side of the screen.
+Click on the **`Site`** menu on the left, then click on the **Create** button on the right side of the screen.
 
 ![alt text](resources/3.4.png) 
 
-You will see an imported template called Maximum template, select the template and click on the Next button.
+You will see an imported template called Maximum template, select the template and click on the **Next** button.
 
 ![alt text](resources/3.5.png) 
 
@@ -129,7 +133,7 @@ Then enter the following information in the Create Content Item screen, then cli
 + Image 1000x562 : Porsche 356 Roadster 1000x562.jpg
 + Category: Life
 
->After you copy and paste the content data below in the content field, select all the text and click on the Remove Format button to remove the text format, we will be using the stylesheet to format the content.
+>After you copy and paste the content data below in the content field, select all the text and click on the **Remove** Format button to remove the text format, we will be using the stylesheet to format the content.
 
 ![alt text](resources/5.3.png)
 
@@ -177,13 +181,13 @@ Select **Sites** from the left menu, then select the **Maximum<User ID>** site y
 
 ![alt text](resources/6.1.png)
     
-Enter a name of the template, e.g. Maximum<User ID>_Template, then check the “Include unpublished content items and digital assets in your template”, click on the Create Template button to create a template.
+Enter a name of the template, e.g. Maximum<User ID>_Template, then check the “Include unpublished content items and digital assets in your template”, click on the **Create Template** button to create a template.
 
 ![alt text](resources/6.2.png)
 
 ![alt text](resources/6.3.png)
  
-Once the template is created successfully, you can click on the Templates link to the templates screen to download the template.
+Once the template is created successfully, you can click on the **Templates** link to the templates screen to download the template.
 
 ![alt text](resources/6.4.png)
 
