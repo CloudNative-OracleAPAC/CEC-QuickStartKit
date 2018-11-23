@@ -54,10 +54,10 @@ If this is the first time we access the OCI environment, we may need to create a
 
 7. The screenshot showed information about my account. The important things we need to do here are:
 
-1.	take note on the OCID, which can be found under the User Information box
-2.	Create the private and public keys for the API key. Please refer to the Create API Keys for the autonomous CECS article for step-by-step guide.
-3.	Add the public key to the API Key of the user then copy the Fingerprint result into notepad.
-4.	Add the user account to be part of the Administrators group.
++ 1. Take note on the **OCID**, which can be found under the User Information box
++ 2. Create the private and public keys for the API key. Please refer to the Create API Keys for the autonomous CECS article for step-by-step guide.
++ 3. Add the public key to the API Key of the user then copy the Fingerprint result into notepad.
++ 4. Add the user account to be part of the Administrators group.
 
 ![](resources/image014.png)
 
