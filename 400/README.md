@@ -12,6 +12,7 @@ The objectives of this lab are to:
 ### Resources
 
 1. [Maximum.zip](template/Maximum.zip) - Maximum HOL site template and components 
+> Note: Resources are already installed on your OCE instance. You can skip this step
  
 ## 2.	Environment
 
