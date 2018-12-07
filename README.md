@@ -16,14 +16,16 @@ The above simple videos will give confidence to customers to understand the ease
 ## AVAILABLE LABS 
 + Lab 1: [Get started with Provisioning Autonomous Content and Experience](lab100.md)
 + Lab 2: [Get started with Content and Experience](110/111-CecsLab.md)
-+ Lab 3: [Get started with building a Microsite using Content and Experience](lab200.md)
++ Lab 3: [Get started with building a Microsite using Content and Experience](400/README.md)
 + Lab 4: [Uploading Content in Content and Experience](lab300.md) 
+<!--
 + Lab 5: [Working with Process Forms in Experience Cloud](200/210-CecsPCSLab.md) (Optional Lab)
-
+-->
+<!--
 **Bonus Labs:** Document Workflow in Content and Experience Cloud
 + A: [Content Metadata](200/203-CecsPCSLab.md)
 + B: [Document Workflow](200/201-CecsPCSLab.md)
-
+-->
 ## OUTCOME OF THE CECS QUICK START KIT
 With the CECS assets available at a single place and designed with the sole objective of helping Oracle customers adopt the innovative offerings, the desired outcome of this exercise would be to have the Oracle Universal Credit customers have a provisioned instance of Autonomous CECS and successfully adopt some of the low hanging use cases of CECS like building a static microsite and building on a content hub.
  
