@@ -20,8 +20,8 @@ The above simple videos will give confidence to customers to understand the ease
 -->
 + Lab 1: [Get started with Provisioning Autonomous Content and Experience](lab100.md)
 + Lab 2: [Get started with building a Microsite using Content and Experience](400/README.md)
-+ Lab 3: [Uploading Content in Content and Experience](lab300.md) 
 <!--
++ Lab 3: [Uploading Content in Content and Experience](lab300.md) 
 + Lab 5: [Working with Process Forms in Experience Cloud](200/210-CecsPCSLab.md) (Optional Lab)
 -->
 <!--
