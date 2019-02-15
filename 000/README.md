@@ -32,7 +32,7 @@ As seen on the screenshots, CECS SSEK Enterprise User and CECS SSEK Standard Use
 ![](resources/image007.png)
 
 4. Click the OCI_Administrators to make sure that the user we are using right now is part of the OCI_Administrators.
-As seen on the left side, my account (Adhika Widjaya) has already become part of the OCI_Administrators group.
+As seen on the left side, my account has already become part of the OCI_Administrators group.
 
 
 ![](resources/image008.png)
