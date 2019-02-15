@@ -98,6 +98,8 @@ Once the compartment is created, please take note on the OCID as that will be us
 
 ![](resources/image029.png)
 
+The information below please check also - [Creating API Keys for OCE provisioning](001/README.md)
+
 ![](resources/image030.png)
 
 ![](resources/image031.png)
